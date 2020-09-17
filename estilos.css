@@ -2,3 +2,17 @@ body {
     background-color: red;
     display: flex;
 }
+
+p {
+    text-align: center;
+    font-size: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
